@@ -21,10 +21,9 @@ Apesar de ter tido contato com back-end somente nos meus estudos, sou todo ouvid
 C, JAVASCRIPT e SQL (MySQL), UML2, UX/UI e JAVA.
 
 Curiosidades:
-- Meu C é acadêmico!
-- Só para estudo de LP e Algoritmos, mas adoraria colocar em prática em algum projeto futuro!
-- Sobre JS: gosto de Electron e React, mas normalmente uso Angular para estudar)
-- Gosto de ler/estudar sobre testes de vulnerabilidade
+- Meu C é acadêmico! Só para estudo de LP e Algoritmos, mas adoraria colocar em prática em algum projeto no futuro!
+- Sobre JS: gosto mais de Electron e React, mas normalmente uso Angular para estudar - são os frameworks que mais me identifico -.
+- Gosto de ler/estudar sobre testes de vulnerabilidade,
 
 ✨  Àreas da informática que pretendo me aprofundar com iniciação científica:
 
@@ -32,6 +31,7 @@ Curiosidades:
 -> MODELOS EFETIVOS DE PROSPECÇÃO DE REQUISITOS DE SOFTWARE EM AMBIENTES DE DESENVOLVIMENTO PARA  STEAKHOLDERS  PCDI E PPI;
 -> DIFERENÇA DE VIDA ÚTIL ENTRE COMPONENTES FÍSICOS DE UM SERVIDOR  DE DADOS EXPOSTOS A CONDIÇÕES FAVORÁVEIS E DESFAVORÁVEIS À SUA CONSERVABILIDADE;
 
+No momento estou em busca de um estágio, se você quiser me ajudar nesta jornada toda... manda um oi! :)
 
 - 📫 contato: raphaelanaximenesdev@icloud.com
 
