@@ -1,8 +1,8 @@
 👋 Faaaala pessoal, sou o  @RaphaelAnaximenes (AnxDEV)
 
 
-========================================
-| Minhas àreas de curiosidade incluem: |
+
+Minhas àreas de curiosidade incluem:
 ========================================
 👀 Humanas:
 
@@ -12,8 +12,8 @@
 
 • Derivadas e Integrais (C1).
 
-==================
-|  Quem sou eu:  |
+
+Quem sou eu:
 ==================
 Meu nome é Raphael e sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas, pela FATEC Artur Azevedo - Mogi Mirim.
 
