@@ -1,7 +1,9 @@
 👋 Faaaala pessoal, sou o  @RaphaelAnaximenes (AnxDEV)
 
-  Minhas àreas de curiosidade incluem:
 
+========================================
+| Minhas àreas de curiosidade incluem: |
+========================================
 👀 Humanas:
 
 • Psicologia aplicada a UX/UI, IHC e UDC.
@@ -10,11 +12,12 @@
 
 • Derivadas e Integrais (C1).
 
-  Quem sou eu:
-
+==================
+|  Quem sou eu:  |
+==================
 Meu nome é Raphael e sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas, pela FATEC Artur Azevedo - Mogi Mirim.
 
-💞️ Particularmente gosto de automação web para experiência do usuário, desenvolvimento de Front-End - e apaixonando por design -, com conhecimento básico em Node.Js e programação Web.
+💞️ Eu, particularmente, gosto de áreas relacionadas à automação de produtos e serviços para web, interação e experiência do usuário, desenvolvimento de front-end e apaixonando por design. Tenho conhecimento básico em Node.Js e programação Web.
 
 Apesar de ter tido contato com back-end somente nos meus estudos, sou todo ouvidos caso queiram falar sobre... acho demais!
 
@@ -22,7 +25,7 @@ Apesar de ter tido contato com back-end somente nos meus estudos, sou todo ouvid
 🌱  Linguagens que estudo e me interesso:
 C, JAVASCRIPT e SQL (MySQL), UML2, UX/UI e JAVA.
 
-  Curiosidades sobre mim:
+Curiosidades sobre mim:
 - Meu C é acadêmico! Só para estudo de LP e Algoritmos, mas adoraria colocar em prática em algum projeto no futuro!
 - Sobre JS: gosto mais de Electron e React, mas normalmente uso Angular para estudar - são os frameworks que mais me identifico -.
 - Gosto de ler/estudar sobre testes de vulnerabilidade,
