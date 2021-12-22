@@ -2,16 +2,6 @@
 
 
 
-Minhas àreas de curiosidade incluem:
-========================================
-👀 Humanas:
-
-• Psicologia aplicada a UX/UI, IHC e UDC.
-
-👀 Exatas:
-
-• Derivadas e Integrais (C1).
-
 
 Quem sou eu:
 ==================
@@ -20,6 +10,18 @@ Meu nome é Raphael e sou estudante do 4º semestre de Análise e Desenvolviment
 💞️ Eu, particularmente, gosto de áreas relacionadas à automação de produtos e serviços para web, interação e experiência do usuário, desenvolvimento de front-end e apaixonando por design. Tenho conhecimento básico em Node.Js e programação Web.
 
 Apesar de ter tido contato com back-end somente nos meus estudos, sou todo ouvidos caso queiram falar sobre... acho demais!
+
+Minhas àreas de curiosidade incluem:
+========================================
+
+👀 Humanas:
+
+• Psicologia aplicada a UX/UI, IHC e UDC.
+
+👀 Exatas:
+
+• Derivadas e Integrais (C1).
+
 
 
 🌱  Linguagens que estudo e me interesso:
