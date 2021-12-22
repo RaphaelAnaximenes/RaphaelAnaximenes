@@ -3,9 +3,11 @@
   Minhas àreas de curiosidade incluem:
 
 👀 Humanas:
+
 • Psicologia aplicada a UX/UI, IHC e UDC.
 
 👀 Exatas:
+
 • Derivadas e Integrais (C1).
 
   Quem sou eu:
