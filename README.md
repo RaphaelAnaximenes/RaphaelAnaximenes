@@ -27,8 +27,9 @@ Minhas àreas de curiosidade incluem:
 🌱  Linguagens que estudo e me interesso:
 - C,
 - JAVASCRIPT (HTML e CSS também, por mais que sejam de marcação naturalmente...).
-- SQL   (MySQL, ORACLE),
-- JAVA  (quase lá...) 
+- SQL   (MySQL Server, ORACLE),
+- NoSQL (MongoDB),
+- JAVA  (JAVAFx, POO e aprendendo Kotlin), 
 - UML2  (Erdês, gosto muito),
 - UX/UI (Saber comunicar é importantíssimo!) 
 
@@ -36,17 +37,12 @@ Curiosidades sobre mim:
 - Meu C é acadêmico! Só para estudo de LP e Algoritmos, mas adoraria colocar em prática em algum projeto no futuro!
 - Sobre JS: gosto mais de Electron e React, mas normalmente uso Angular para estudar - são os frameworks que mais me identifico -.
 - Gosto de ler/estudar sobre testes de vulnerabilidade.
-- Quando vi o CSS pela primeira vez pensei que fosse bruxaria. (Será que não é
+- Quando vi o CSS pela primeira vez pensei que fosse bruxaria. (Será que não é?)
 
-✨  Àreas da informática que pretendo me aprofundar com iniciação científica:
+✨  Àreas da informática com iniciação científica:
 
 -> DESENVOLVIMENTO QUALITATIVO DE INTERFACES PARA O PÚBLICO INFANTIL: DESAFIOS E CUIDADOS SOBRE VICIABILIDADE;
--> MODELOS EFETIVOS DE PROSPECÇÃO DE REQUISITOS DE SOFTWARE EM AMBIENTES DE DESENVOLVIMENTO PARA  STEAKHOLDERS  PCDI E PPI;
--> DIFERENÇA DE VIDA ÚTIL ENTRE COMPONENTES FÍSICOS DE UM SERVIDOR  DE DADOS EXPOSTOS A CONDIÇÕES FAVORÁVEIS E DESFAVORÁVEIS À SUA CONSERVABILIDADE;
 
-No momento estou em busca de um estágio, se você quiser me ajudar nesta jornada toda ai de cima, manda um oi! 
-
-(Se você for um daqueles ninjas em qualquer linguagem e estiver procurando um discipulo só para mostrar algo legal, pode mandar mensagem tambem!) 
 
 📫 Contato exclusivo: 
 📧 raphaelanaximenesdev@icloud.com
