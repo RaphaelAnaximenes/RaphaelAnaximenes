@@ -14,28 +14,17 @@ Apesar de ter tido contato com back-end somente nos meus estudos, sou todo ouvid
 Minhas àreas de curiosidade incluem:
 ========================================
 
-👀 Humanas:
-
-• Psicologia aplicada a UX/UI, IHC e UDC.
-
-👀 Exatas:
-
-• Derivadas e Integrais (C1).
-
-
-
 🌱  Linguagens que estudo e me interesso:
 - C,
-- JAVASCRIPT (HTML e CSS também, por mais que sejam de marcação naturalmente...).
+- JAVASCRIPT.
 - SQL   (MySQL Server, ORACLE),
 - NoSQL (MongoDB),
-- JAVA  (JAVAFx, POO e aprendendo Kotlin), 
-- UML2  (Erdês, gosto muito),
-- UX/UI (Saber comunicar é importantíssimo!) 
+- JAVA  (JAVAFx, TDD e Spring), 
+- UX/UI; 
 
 Curiosidades sobre mim:
-- Meu C é acadêmico! Só para estudo de LP e Algoritmos, mas adoraria colocar em prática em algum projeto no futuro!
-- Sobre JS: gosto mais de Electron e React, mas normalmente uso Angular para estudar - são os frameworks que mais me identifico -.
+
+- Sobre JS: Node + React é legal, Spring + React é animal!
 - Gosto de ler/estudar sobre testes de vulnerabilidade.
 - Quando vi o CSS pela primeira vez pensei que fosse bruxaria. (Será que não é?)
 
