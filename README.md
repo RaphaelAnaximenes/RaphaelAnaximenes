@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-👋 Faaaala pessoal, sou o  @RaphaelAnaximenes (AnxDEV)
+👋 Olá pessoas, sou o  @RaphaelAnaximenes (AnxDEV)
+📧 raphaelanaximenesdev@icloud.com
+
 
 
 <div align="center">
@@ -31,6 +33,4 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
-  📫 Contato exclusivo: 
-📧 raphaelanaximenesdev@icloud.com
 
