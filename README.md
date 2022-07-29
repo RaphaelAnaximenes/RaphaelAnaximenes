@@ -1,42 +1,27 @@
-👋 Faaaala pessoal, sou o  @RaphaelAnaximenes (AnxDEV)
-
-
-
-
-Quem sou eu:
-==================
-Meu nome é Raphael e sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas, pela FATEC Artur Azevedo - Mogi Mirim.
-
-💞️ Eu, particularmente, gosto de áreas relacionadas à automação de produtos e serviços para web, interação e experiência do usuário, desenvolvimento front-end e um apaixonando por design de interface. Tenho conhecimento básico em Node.Js e programação Web.
-
-Apesar de ter tido contato com back-end somente nos meus estudos, sou todo ouvidos caso queiram falar sobre... acho demais!
-
-Minhas àreas de curiosidade incluem:
-========================================
-
-🌱  Linguagens que estudo e me interesso:
-- C,
-- JAVASCRIPT.
-- SQL   (MySQL Server, ORACLE),
-- NoSQL (MongoDB),
-- JAVA  (JAVAFx, TDD e Spring), 
-- UX/UI; 
-
-Curiosidades sobre mim:
-
-- Sobre JS: Node + React é legal, Spring + React é animal!
-- Gosto de ler/estudar sobre testes de vulnerabilidade.
-- Quando vi o CSS pela primeira vez pensei que fosse bruxaria. (Será que não é?)
-
-✨  Àreas da informática com iniciação científica:
-
--> DESENVOLVIMENTO QUALITATIVO DE INTERFACES PARA O PÚBLICO INFANTIL: DESAFIOS E CUIDADOS SOBRE VICIABILIDADE;
-
-
-📫 Contato exclusivo: 
-📧 raphaelanaximenesdev@icloud.com
-
 <!---
 RaphaelAnaximenes/RaphaelAnaximenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+👋 Faaaala pessoal, sou o  @RaphaelAnaximenes (AnxDEV)
+
+
+<div align="center">
+  <a href="https://github.com/RaphaelAnaximenes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelAnaximenes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAnaximenes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+  📫 Contato exclusivo: 
+📧 raphaelanaximenesdev@icloud.com
+
