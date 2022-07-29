@@ -41,17 +41,17 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="MSSQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
  
-<div>
-<a href = "mailto:raphaelanaximenesdev@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raphael-anaximenes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
   
 
   
   
 <div align="center">
  <p> <br>
+ 
+<div>
+<a href = "mailto:raphaelanaximenesdev@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raphael-anaximenes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <a href=" raphaelanaximenesdev@icloud.com"><img align="center" alt="Rafa-Python" height="80" width="100" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
 </div>
 
