@@ -41,8 +41,8 @@ You can click the Preview link to take a look at your changes.
    
  
   
-<div align="bottom">
+<div align="center">
  <p> <br>
-<a href=" raphaelanaximenesdev@icloud.com"><img align="center" alt="Rafa-Python" height="50" width="100" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
+<a href=" raphaelanaximenesdev@icloud.com"><img align="center" alt="Rafa-Python" height="80" width="100" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
 </div>
 
