@@ -32,8 +32,9 @@ You can click the Preview link to take a look at your changes.
   
 
   <div align="bottom">
-<a href=" raphaelanaximenesdev@icloud.com"><img align="center" alt="Rafa-Python" height="50" width="100" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"> 
-</a>
+<p>
+<br>
+<a href=" raphaelanaximenesdev@icloud.com"><img align="center" alt="Rafa-Python" height="50" width="100" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
   
   </div>
 
