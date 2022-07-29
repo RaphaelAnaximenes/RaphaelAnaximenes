@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p>👋 Olá pessoas, sou o  @RaphaelAnaximenes (AnxDEV)
-  <a href=" raphaelanaximenesdev@icloud.com"><img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"> 
+  <a href=" raphaelanaximenesdev@icloud.com"><img align="center" alt="Rafa-Python" height="50" width="100" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"> 
 </a>
 
 
