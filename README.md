@@ -52,6 +52,6 @@ You can click the Preview link to take a look at your changes.
 <a href = "mailto:raphaelanaximenes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-anaximenes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<a href="mailto:raphaelanaximenesdev@icloud.com"><img align="center" alt="AnxAskme" height="100" width="100" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
+<a href="mailto:raphaelanaximenesdev@icloud.com"><img align="center" alt="AnxAskme" height="80" width="200" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
 </div>
 
