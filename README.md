@@ -67,7 +67,7 @@ Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante
   
   
 <div align="left">
- <h3>:3  </h3>
+ <h3> Vamos codar juntos?  </h3>
 
 </div>
  
