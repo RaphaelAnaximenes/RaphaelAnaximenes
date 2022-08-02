@@ -2,21 +2,19 @@
 RaphaelAnaximenes/RaphaelAnaximenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<table align="center">
+  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português </a></td>
+  <td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+</table>
+
+
 ![](https://komarev.com/ghpvc/?username=RaphaelAnaximenes&color=blueviolet&style=flat-square&label=Visitas+ao+perfil)
-<br>
+
 Estudante e Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursando Analise e Desenvolvimento de Sistemas na [Fatec-MM](https://fatecmm.edu.br/index.php), 5º semestre.
 
 <div>
 <h3>Atualmente aprendo estudando:</h3>
 <dl>
-
-<div>
-<table align="right">
-  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português </a></td></tr>
-  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
-</table>
-</div>
-
   <dt>Java ☕</dt>
   <dd>- DAO, JPA, JFrame... </dd>
   <dt>SpringBoot 🍃</dt>
