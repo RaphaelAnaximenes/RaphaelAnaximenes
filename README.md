@@ -79,7 +79,7 @@ Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante
  <p> <br>
  
 <div>
-<a href = "mailto:raphaelanaximenes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:raphaelanaximenes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-anaximenes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <a href="mailto:raphaelanaximenesdev@icloud.com"><img align="center" alt="Askme" height="80" width="200" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
