@@ -4,11 +4,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Estudante e Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursando Analise e Desenvolvimento de Sistemas na [Fatec-MM](https://fatecmm.edu.br/index.php).
-Atualmente aprendo utilizando:
-Java ☕
-SpringBoot 🍃
-MySQL 🐬
-e Angular 🅰️ 
+
+<h3>Atualmente aprendo estudando:</h3>
+<dl>
+  <dt>Java ☕</dt>
+  <dd>- Dao, Jpa, JFrame... </dd>
+  <dt>SpringBoot 🍃</dt>
+  <dd>- API, Swagger...</dd>
+  <dt>MySQL 🐬</dt>
+  <dd>- ETL SQL...</dd>
+  <dt>and Angular 🅰️ </dt>
+  <dd>- Express...</dd>
+</dl>
+
 
 Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante e consistente, para isso me dedico em evoluir hard e soft skills, realizando cursos e desafios práticos constantemente. Também sou pesquisador científico pelo CEPE da minha instituição, com o tema: Infância, adolescência e informática - riscos e benefícios da exposição precoce e contínua.
 
