@@ -3,7 +3,7 @@ RaphaelAnaximenes/RaphaelAnaximenes is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 <table align="center">
-  <tr><td><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> Using now </td>
+  <tr><td><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> Using now (en-US) </td>
   <td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center"> leia em Português(PT-BR) </a></td></tr>
 </table>
 
