@@ -10,7 +10,7 @@ SpringBoot 🍃
 MySQL 🐬
 e Angular 🅰️ 
 
-Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante e consistente, para isso me empenho evoluir as hard e soft skills, realizando cursos e desafios práticos constantemente. 
+Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante e consistente, para isso me dedico em evoluir hard e soft skills, realizando cursos e desafios práticos constantemente. Também sou pesquisador científico pelo CEPE da minha instituição, com o tema: Infância, adolescência e informática - riscos e benefícios da exposição precoce e contínua.
 
 
 
