@@ -13,18 +13,26 @@ e Angular 🅰️
 Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante e consistente, para isso me dedico em evoluir hard e soft skills, realizando cursos e desafios práticos constantemente. Também sou pesquisador científico pelo CEPE da minha instituição, com o tema: Infância, adolescência e informática - riscos e benefícios da exposição precoce e contínua.
 
 
-
+  <div>
+<table align="right">
+  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português </a></td></tr>
+  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+  <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
+</table>
+</div>
+  
 <div align="left">
   <a href="https://github.com/RaphaelAnaximenes">
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelAnaximenes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAnaximenes&&layout=compact&hide=shell&theme=highcontrast">
   
 </div>
+
+  
   
 <div style="display: inline_block"><br>
  
  
-  ![Snake animation](https://github.com/rafaballerini/RaphaelAnaximenes/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
@@ -63,6 +71,6 @@ Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante
 <a href = "mailto:raphaelanaximenes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-anaximenes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<a href="mailto:raphaelanaximenesdev@icloud.com"><img align="center" alt="AnxAskme" height="80" width="200" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
+<a href="mailto:raphaelanaximenesdev@icloud.com"><img align="center" alt="Askme" height="80" width="200" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
 </div>
 
