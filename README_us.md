@@ -2,7 +2,8 @@
 RaphaelAnaximenes/RaphaelAnaximenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+![](https://komarev.com/ghpvc/?username=RaphaelAnaximenes&color=blueviolet&style=flat-square&label=Visitors)
+<br>
 I am a college student and Self Learner Java Jr. Full Stack Developer,  majoring in Systems Analysis and Development course at [FATEC Artur Azevedo from Mogi Mirim](https://fatecmm.edu.br/index.php), currently in the 5th semester.
 
    
