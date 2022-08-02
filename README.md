@@ -32,23 +32,15 @@ Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante
 
 
   
-<div align="left">
+<div align="center">
   <a href="https://github.com/RaphaelAnaximenes">
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelAnaximenes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAnaximenes&&layout=compact&hide=shell&theme=highcontrast">
   
 </div>
 
-  
-  
-<div style="display: inline_block"><br>
- 
- 
 
 
-<!--  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
-</div>
-  
 <div align="left">
   <h3> Linguagens e ferramentas:  </h3>
   <img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/> 
@@ -76,5 +68,11 @@ Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante
 <a href = "mailto:raphaelanaximenes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-anaximenes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  <div align="right" width="100" height="110">
+  <img align="right" alt="Husky" width="200" height="200" src="https://i.giphy.com/media/l4FGtAXjRFvOs3UyY/giphy.webp">
+    
+  </div>
 </div>
+  
 
+  
