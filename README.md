@@ -5,28 +5,32 @@ You can click the Preview link to take a look at your changes.
 
 Estudante e Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursando Analise e Desenvolvimento de Sistemas na [Fatec-MM](https://fatecmm.edu.br/index.php).
 
+<div>
 <h3>Atualmente aprendo estudando:</h3>
 <dl>
+
+<div>
+<table align="right">
+  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português </a></td></tr>
+  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+</table>
+</div>
+
   <dt>Java ☕</dt>
   <dd>- Dao, Jpa, JFrame... </dd>
   <dt>SpringBoot 🍃</dt>
   <dd>- API, Swagger...</dd>
   <dt>MySQL 🐬</dt>
   <dd>- ETL SQL...</dd>
-  <dt>and Angular 🅰️ </dt>
+  <dt>e Angular 🅰️ </dt>
   <dd>- Express...</dd>
 </dl>
 
+</div>
 
 Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante e consistente, para isso me dedico em evoluir hard e soft skills, realizando cursos e desafios práticos constantemente. Também sou pesquisador científico pelo CEPE da minha instituição, com o tema: Infância, adolescência e informática - riscos e benefícios da exposição precoce e contínua.
 
 
-  <div>
-<table align="right">
-  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português </a></td></tr>
-  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
-</table>
-</div>
   
 <div align="left">
   <a href="https://github.com/RaphaelAnaximenes">
