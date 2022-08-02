@@ -31,23 +31,25 @@ Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante
 </div>
   
 <div align="left">
-  <h2>Frontend Stack: </h2>
-  <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
+  <h3> Linguagens e ferramentas:  </h3>
+  <img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/> 
+  <img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
+  <img align = "center" src="https://i.imgur.com/TLY19Q3.png" alt="css3" width="32" height="36"/>
+  <img align = "center" src="https://i.imgur.com/O02pplX.png" alt="javascript" width="32" height="37"/>
+  <img align = "center" src="https://i.imgur.com/t1oS4Pz.png" alt="typescript" width="35" height="35"/> 
+  <img align = "center" src="https://i.imgur.com/YxyiXo4.png" alt="react" width="35" height="35"/>  
+  <img align = "center" src="https://i.imgur.com/HHwqtbv.png" alt="html5" width="32" height="37"/> 
+  <img align = "center" src="https://i.imgur.com/g6Wg8Ey.png" alt="java" width="40" height="40"/> 
+  <img align = "center" src="https://i.imgur.com/emPAeK4.png" alt="spring" width="40" height="40"/> 
+  <img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/> 
+  <img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/> 
+  <img align="center" alt="MSSQLServer" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
  </div>
   
   
 <div align="left">
- <h2>Backend Stack: </h2>
-  <img align="center" alt="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="NodeJs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MySql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="MSSQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+ <h3>:3  </h3>
+
 </div>
  
   
