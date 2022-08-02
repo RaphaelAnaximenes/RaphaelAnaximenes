@@ -3,6 +3,14 @@ RaphaelAnaximenes/RaphaelAnaximenes is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+Estudante e Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursando Analise e Desenvolvimento de Sistemas na [Fatec-MM](https://fatecmm.edu.br/index.php).
+Atualmente aprendo utilizando:
+Java ☕
+SpringBoot 🍃
+MySQL 🐬
+e Angular 🅰️ 
+
+Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante e consistente, para isso me empenho evoluir as hard e soft skills, realizando cursos e desafios práticos constantemente. 
 
 
 
@@ -15,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <div style="display: inline_block"><br>
  
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/RaphaelAnaximenes/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
