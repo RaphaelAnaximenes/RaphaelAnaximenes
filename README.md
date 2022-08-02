@@ -3,8 +3,8 @@ RaphaelAnaximenes/RaphaelAnaximenes is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 <table align="center">
-  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português </a></td>
-  <td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+  <tr><td><a href="#"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">Usando agora</a></td>
+  <td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> Read in English </a></td></tr>
 </table>
 
 
