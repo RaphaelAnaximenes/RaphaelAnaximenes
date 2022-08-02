@@ -3,7 +3,7 @@ RaphaelAnaximenes/RaphaelAnaximenes is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-Estudante e Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursando Analise e Desenvolvimento de Sistemas na [Fatec-MM](https://fatecmm.edu.br/index.php).
+Estudante e Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursando Analise e Desenvolvimento de Sistemas na [Fatec-MM](https://fatecmm.edu.br/index.php), 5º semestre.
 
 <div>
 <h3>Atualmente aprendo estudando:</h3>
