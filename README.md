@@ -17,7 +17,7 @@ Estudante e Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursa
 </div>
 
   <dt>Java ☕</dt>
-  <dd>- Dao, Jpa, JFrame... </dd>
+  <dd>- DAO, JPA, JFrame... </dd>
   <dt>SpringBoot 🍃</dt>
   <dd>- API, Swagger...</dd>
   <dt>MySQL 🐬</dt>
