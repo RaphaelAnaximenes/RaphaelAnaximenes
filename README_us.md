@@ -4,13 +4,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I am a college student and Self Learner Java Jr. Full Stack Developer,  majoring in Systems Analysis and Development course at [FATEC Artur Azevedo from Mogi Mirim](https://fatecmm.edu.br/index.php), currently in the 5th semester.
-I want to help improve people and projects, consistently. Focused in hard and soft skills, I keep studying and practicing.
-Also interested in scientific research at my institution ["CEPE"](http://monitoria.fatecmm.edu.br/?cepe), with the theme:
-Childhood, adolescence and informatics - risks and benefits of early and continuous exposure.
+
    
 
 
 <h3>Currently learning from:</h3>
+<div>
+<div>
+<table align="right">
+  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português </a></td></tr>
+  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+</table>
+</div>
+  
 <dl>
   <dt>Java ☕</dt>
   <dd>- Dao, Jpa, JFrame... </dd>
@@ -21,16 +27,11 @@ Childhood, adolescence and informatics - risks and benefits of early and continu
   <dt>and Angular 🅰️ </dt>
   <dd>- Express...</dd>
 </dl>
-
-
-<div>
-<table align="right">
-  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português </a></td></tr>
-  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
-</table>
- 
 </div>
-  
+I want to help people and projects to reach their next level. Focused in hard and soft skills, I keep studying and practicing.
+Also interested in scientific research at my institution ["CEPE"](http://monitoria.fatecmm.edu.br/?cepe), with the theme:
+Childhood, adolescence and informatics - risks and benefits of early and continuous exposure.
+
 <div align="left">
   <a href="https://github.com/RaphaelAnaximenes">
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelAnaximenes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
