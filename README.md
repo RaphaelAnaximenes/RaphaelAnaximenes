@@ -66,15 +66,10 @@ Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante
  </div>
   
   
-<div align="left">
+<div align="center">
  <h3> Vamos codar juntos?  </h3>
-
 </div>
  
-  
-
-  
-  
 <div align="center">
  <p> <br>
  
