@@ -3,12 +3,12 @@ RaphaelAnaximenes/RaphaelAnaximenes is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 <table align="center">
-  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  View in Portuguese </a></td>
-  <td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"></a></td></tr>
+  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Veja em Português(PT-BR) </a></td>
+  <td><a href="#"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"></a></td></tr>
 </table>
 
 
-![](https://komarev.com/ghpvc/?username=RaphaelAnaximenes&color=blueviolet&style=flat-square&label=Visitas+ao+perfil)
+![](https://komarev.com/ghpvc/?username=RaphaelAnaximenes&color=blueviolet&style=flat-square&label=Profile+views)
 
 I am a college student and Self Learner Java Jr. Full Stack Developer,  majoring in Systems Analysis and Development course at [FATEC Artur Azevedo from Mogi Mirim](https://fatecmm.edu.br/index.php), currently in the 5th semester.
 
