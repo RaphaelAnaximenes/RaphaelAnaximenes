@@ -7,7 +7,6 @@ I am a college student and Self Learner Java Jr. Full Stack Developer,  majoring
 
    
 
-
 <h3>Currently learning from:</h3>
 <div>
 <div>
@@ -28,8 +27,10 @@ I am a college student and Self Learner Java Jr. Full Stack Developer,  majoring
   <dd>- Express...</dd>
 </dl>
 </div>
+
+     
 I want to help people and projects to reach their next level. Focused in hard and soft skills, I keep studying and practicing.
-Also interested in scientific research at my institution ["CEPE"](http://monitoria.fatecmm.edu.br/?cepe), with the theme:
+Also interested in scientific research at my institution [CEPE](http://monitoria.fatecmm.edu.br/?cepe), with the theme:
 Childhood, adolescence and informatics - risks and benefits of early and continuous exposure.
 
 <div align="left">
@@ -37,15 +38,7 @@ Childhood, adolescence and informatics - risks and benefits of early and continu
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelAnaximenes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAnaximenes&&layout=compact&hide=shell&theme=highcontrast">
 </div>
-<div style="display: inline_block"><br>
- 
- 
-
-
-<!--  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
-
-</div>
-    
+   
   
 <div align="left">
   <h3> Languages and Tools:  </h3>
