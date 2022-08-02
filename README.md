@@ -66,12 +66,11 @@ Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante
  </div>
   
   
+
 <div align="center">
- <h3> Vamos codar juntos?  </h3>
-</div>
- 
-<div align="center">
- <p> <br>
+ <p> <h3> Vamos codar juntos?  </h3>
+    
+  <br>
  
 <div>
 <a href = "mailto:raphaelanaximenes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
