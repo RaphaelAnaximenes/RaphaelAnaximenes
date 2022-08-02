@@ -56,18 +56,11 @@ Childhood, adolescence and informatics - risks and benefits of early and continu
   <img align="center" alt="MSSQLServer" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
  </div>
   
-  
-<div align="left">
-    <h3> That's all folks! :3</h3>
-
-</div>
- 
-  
-
-  
+   
   
 <div align="center">
- <p> <br>
+ <p>  <h3> That's all folks! :3</h3>
+ <br>
  
 <div>
 <a href = "mailto:raphaelanaximenes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
