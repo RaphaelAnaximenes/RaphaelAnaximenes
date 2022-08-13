@@ -15,14 +15,12 @@ Estudante e Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursa
 <div>
 <h3>Atualmente aprendo estudando:</h3>
 <dl>
-  <dt>Java ☕</dt>
-  <dd>- DAO, JPA, JFrame... </dd>
-  <dt>SpringBoot 🍃</dt>
-  <dd>- API, Swagger...</dd>
-  <dt>MySQL 🐬</dt>
-  <dd>- ETL SQL...</dd>
-  <dt>e Angular 🅰️ </dt>
-  <dd>- Express...</dd>
+  <dt>Backend:</dt>
+  <dd>Java + Spring + SQL <sub>(⭐⭐ - Habituado)</sub> </dd>
+  <dd>NodeJS + Angular + Express + MongoDB <sub>(⭐ - Aprendendo...)</sub> </dd>
+  
+  <dt>Nota sobre frontend:</dt>
+  <dd> <i>Sou autodidata em frontend - Uso Html, Bootstrap, React, etc...</i> </dd>
 </dl>
 
 </div>
