@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=RaphaelAnaximenes&color=blueviolet&style=flat-square&label=Profile+views)
 
-I am a Self Learner Java Jr. Full Stack Developer, also  majoring in Systems Analysis and Development course at [FATEC Artur Azevedo from Mogi Mirim](https://fatecmm.edu.br/index.php), currently in the 5th semester.
+I am a Self Learner Java Jr. Developer, also  majoring in Systems Analysis and Development course at [FATEC Artur Azevedo from Mogi Mirim](https://fatecmm.edu.br/index.php), currently in the 5th semester.
 
    
 
@@ -18,14 +18,12 @@ I am a Self Learner Java Jr. Full Stack Developer, also  majoring in Systems Ana
 <div>
   
 <dl>
-  <dt>Java ☕</dt>
-  <dd>- Dao, Jpa, JFrame... </dd>
-  <dt>SpringBoot 🍃</dt>
-  <dd>- API, Swagger...</dd>
-  <dt>MySQL 🐬</dt>
-  <dd>- ETL SQL...</dd>
-  <dt>and Angular 🅰️ </dt>
-  <dd>- Express...</dd>
+  <dt>Backend:</dt>
+  <dd>Java + Spring + SQL <sub>(⭐⭐ - Acquainted with...)</sub> </dd>
+  <dd>NodeJS + Angular + Express + MongoDB <sub>(⭐ - Learning...)</sub> </dd>
+  
+  <dt>Nota sobre frontend:</dt>
+  <dd> <i>I'm a self learner autodidata em frontend - Uso Html, Bootstrap, React, etc...</i> </dd>
 </dl>
 </div>
 
