@@ -23,7 +23,7 @@ I am a Self Learner Java Jr. Developer, also  majoring in Systems Analysis and D
   <dd>NodeJS + Angular + Express + MongoDB <sub>(⭐ - Learning...)</sub> </dd>
   
   <dt>Nota sobre frontend:</dt>
-  <dd> <i>I'm a self learner autodidata em frontend - Uso Html, Bootstrap, React, etc...</i> </dd>
+  <dd> <i>I'm a self learner in frontend - Acquainted with HTML, Bootstrap, CSS, etc...</i> </dd>
 </dl>
 </div>
 
