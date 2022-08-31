@@ -38,7 +38,7 @@ Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante
 
 
 
-<div align="left">
+<div align="center">
   <h3> Linguagens e ferramentas:  </h3>
   <img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/> 
   <img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
