@@ -39,7 +39,7 @@ Childhood, adolescence and informatics - risks and benefits of early and continu
 </div>
    
   
-<div align="left">
+<div align="center">
   <h3> Languages and Tools:  </h3>
   <img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/> 
   <img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
