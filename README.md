@@ -27,17 +27,6 @@ Estudante e Desenvolvedor Java / NodeJS Jr., no momento estou cursando Analise e
 
 Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante e consistente, para isso me dedico em evoluir hard e soft skills, realizando cursos e desafios práticos constantemente. Também sou pesquisador científico pelo CEPE da minha instituição, com o tema: Infância, adolescência e informática - riscos e benefícios da exposição precoce e contínua.
 
-
-  
-<div align="center">
-  <a href="https://github.com/RaphaelAnaximenes">
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelAnaximenes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAnaximenes&&layout=compact&hide=shell&theme=highcontrast">
-  
-</div>
-
-
-
 <div align="center">
   <h3> Linguagens e ferramentas:  </h3>
   <img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/> 
