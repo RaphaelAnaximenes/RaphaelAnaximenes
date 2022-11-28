@@ -20,7 +20,7 @@ I am a Self Learner Java / NodeJS Jr. Developer, also  majoring in Systems Analy
 <dl>
   <dt>Backend:</dt>
   <dd>Java + Spring + SQL <sub>(⭐⭐ - Acquainted with...)</sub> </dd>
-  <dd>NodeJS + Angular + Express + MongoDB <sub>(⭐ - Learning...)</sub> </dd>
+  <dd>NodeJS + Angular + Express + MongoDB <sub>(⭐⭐ - Acquainted with...)</sub> </dd>
   
   <dt>Nota sobre frontend:</dt>
   <dd> <i>I'm a self learner in frontend - Acquainted with HTML, Bootstrap, CSS, etc...</i> </dd>
@@ -32,12 +32,6 @@ I want to help people and projects to reach their next level. Focused in hard an
 Also interested in scientific research at my institution [CEPE](http://monitoria.fatecmm.edu.br/?cepe), with the theme:
 Childhood, adolescence and informatics - risks and benefits of early and continuous exposure.
 
-<div align="center">
-  <a href="https://github.com/RaphaelAnaximenes">
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelAnaximenes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAnaximenes&&layout=compact&hide=shell&theme=highcontrast">
-</div>
-   
   
 <div align="center">
   <h3> Languages and Tools:  </h3>
