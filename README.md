@@ -17,7 +17,7 @@ Estudante e Desenvolvedor Java / NodeJS Jr., no momento estou cursando Analise e
 <dl>
   <dt>Backend:</dt>
   <dd>Java + Spring + SQL <sub>(⭐⭐ - Habituado)</sub> </dd>
-  <dd>NodeJS + Angular + Express + MongoDB <sub>(⭐ - Aprendendo...)</sub> </dd>
+  <dd>NodeJS + Angular + Express + MongoDB <sub>(⭐⭐ - Habituado)</sub> </dd>
   
   <dt>Nota sobre frontend:</dt>
   <dd> <i>Sou autodidata em frontend - Uso Html, Bootstrap, React, etc...</i> </dd>
