@@ -10,28 +10,25 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=RaphaelAnaximenes&color=blueviolet&style=flat-square&label=Visitas+ao+perfil)
 
-Estudante e Desenvolvedor Java / NodeJS Jr., no momento estou cursando Analise e Desenvolvimento de Sistemas na [Fatec-MM](https://fatecmm.edu.br/index.php), 5º semestre.
+Desenvolvedor Javascript / Java Jr., com formação em nível superior em Analise e Desenvolvimento de Sistemas pela [Fatec-MM](https://fatecmm.edu.br/index.php).
 
-<div>
-<h3>Atualmente aprendo estudando:</h3>
-<dl>
-  <dt>Backend:</dt>
-  <dd>Java + Spring + SQL <sub>(⭐⭐ - Habituado)</sub> </dd>
-  <dd>NodeJS + Angular + Express + MongoDB <sub>(⭐⭐ - Habituado)</sub> </dd>
+Atualmente aprendo estudando: 
+  ````
   
-  <dt>Nota sobre frontend:</dt>
-  <dd> <i>Sou autodidata em frontend - Uso Html, Bootstrap, React, etc...</i> </dd>
-</dl>
+   * NestJS, NodeJS + Prisma ORM
 
-</div>
+   * Spring + SQL </dd>
+   * NodeJS + Angular + Express / Fastify + MongoDB </sub> </dd>
+   ````
+  
 
-Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante e consistente, para isso me dedico em evoluir hard e soft skills, realizando cursos e desafios práticos constantemente. Também sou pesquisador científico pelo CEPE da minha instituição, com o tema: Infância, adolescência e informática - riscos e benefícios da exposição precoce e contínua.
+
+Quero poder ajudar no desenvolvimento das pessoas e projetos, de forma relevante e consistente, para isso me dedico em evoluir hard e soft skills, realizando cursos e desafios práticos constantemente. Também fui pesquisador científico pelo CEPE da minha instituição, com o tema: Infância, adolescência e informática - riscos e benefícios da exposição precoce e contínua.
 
 <div align="center">
   <h3> Linguagens e ferramentas:  </h3>
   <img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/> 
-  <img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
-  <img align = "center" src="https://i.imgur.com/TLY19Q3.png" alt="css3" width="32" height="36"/>
+    <img align = "center" src="https://i.imgur.com/TLY19Q3.png" alt="css3" width="32" height="36"/>
   <img align = "center" src="https://i.imgur.com/O02pplX.png" alt="javascript" width="32" height="37"/>
   <img align = "center" src="https://i.imgur.com/t1oS4Pz.png" alt="typescript" width="35" height="35"/> 
   <img align = "center" src="https://i.imgur.com/YxyiXo4.png" alt="react" width="35" height="35"/>  
