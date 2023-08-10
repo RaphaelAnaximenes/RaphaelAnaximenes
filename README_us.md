@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=RaphaelAnaximenes&color=blueviolet&style=flat-square&label=Profile+views)
 
-I am a Self Learner Java / NodeJS Jr. Developer, also  majoring in Systems Analysis and Development course at [FATEC Artur Azevedo from Mogi Mirim](https://fatecmm.edu.br/index.php), currently in the 5th semester.
+Java / NodeJS Jr. Developer, graduated in Systems Analysis and Development course at [FATEC Artur Azevedo from Mogi Mirim](https://fatecmm.edu.br/index.php).
 
    
 
@@ -20,7 +20,7 @@ I am a Self Learner Java / NodeJS Jr. Developer, also  majoring in Systems Analy
 <dl>
   <dt>Backend:</dt>
   <dd>Java + Spring + SQL <sub>(⭐⭐ - Acquainted with...)</sub> </dd>
-  <dd>NodeJS + Angular + Express + MongoDB <sub>(⭐⭐ - Acquainted with...)</sub> </dd>
+  <dd>NodeJS + Angular + Express + MongoDB/ PrismaORM <sub>(⭐⭐ - Acquainted with...)</sub> </dd>
   
   <dt>Nota sobre frontend:</dt>
   <dd> <i>I'm a self learner in frontend - Acquainted with HTML, Bootstrap, CSS, etc...</i> </dd>
