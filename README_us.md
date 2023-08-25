@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=RaphaelAnaximenes&color=blueviolet&style=flat-square&label=Profile+views)
 
-Java / NodeJS Jr. Developer, graduated in Systems Analysis and Development course at [FATEC Artur Azevedo from Mogi Mirim](https://fatecmm.edu.br/index.php).
+Java / NodeJS Developer (back-end focused), graduated in Systems Analysis and Development course at [FATEC Artur Azevedo from Mogi Mirim](https://fatecmm.edu.br/index.php).
 
    
 
