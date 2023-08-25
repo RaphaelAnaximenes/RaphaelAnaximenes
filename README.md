@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=RaphaelAnaximenes&color=blueviolet&style=flat-square&label=Visitas+ao+perfil)
 
-Desenvolvedor Javascript / Java Jr., com formação em nível superior em Analise e Desenvolvimento de Sistemas pela [Fatec-MM](https://fatecmm.edu.br/index.php).
+Desenvolvedor Javascript / Java focado em backend, com formação em nível superior em Analise e Desenvolvimento de Sistemas pela [Fatec-MM](https://fatecmm.edu.br/index.php).
 
 Atualmente aprendo estudando: 
   ````
