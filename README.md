@@ -17,8 +17,8 @@ Atualmente aprendo estudando:
   
    * NestJS, NodeJS + Prisma ORM
 
-   * Spring + SQL </dd>
-   * NodeJS + Angular + Express / Fastify + MongoDB </sub> </dd>
+   * Spring + SQL
+   * NodeJS + Angular + Express / Fastify + MongoDB 
    ````
   
 
